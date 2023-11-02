@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Thor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thorchh&theme=blue-green)](https://github.com/thorchh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thorchh)](https://github.com/thorchh/github-readme-stats)
 
 <!--
 **thorchh/thorchh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
