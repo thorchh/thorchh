@@ -3,8 +3,8 @@
 ## I'm a Student, Developer, and Lifelong Learner!
 
 - 🌎 I'm from Argentina, Spain, and Denmark!
-- 🔭 I’m currently working on EasyPC!
-- 🌱 I’m currently learning React!
+- 🔭 I’m currently working on zKnowledgeBase!
+- 🌱 I’m currently learning about the Blockchain!
 - 👯 I’m looking to collaborate on a project aiming to reduce LLM hallucination!
 - 💬 Ask me about AI, ML, Fullstack!
 - 📫 How to reach me: [thorchri@usc.edu](thorchri@usc.edu)
